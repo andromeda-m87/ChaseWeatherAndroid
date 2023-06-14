@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChaseWeather</string>
+    <string name="network_error">Please check your network connection and try again.</string>
+</resources>
